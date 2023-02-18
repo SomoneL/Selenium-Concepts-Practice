@@ -1,7 +1,7 @@
 #Test Case
 #------------------
 # 1) Open Web Browser (Chrome)
-# 2) Open URL https://opensource-demo.orangehrmlive.com/
+# 2) Open URL https://www.saucedemo.com/
 # 3) Enter username (user-name)
 # 4) Enter password (secret_sauce)
 # 5) Click on Login
